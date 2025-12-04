@@ -65,7 +65,7 @@ A full-stack messaging platform with real-time communication built from scratch
 **Features:** Real-time messaging, authentication, image uploads (Cloudinary), welcome emails (Resend), rate limiting (Arcjet)  
 **What I learned:** WebSocket communication, JWT auth, third-party integrations, deployment
 
-🔗 [Live Demo](#) | [Repository](https://github.com/LAZERLES/chatfull)
+🔗 [Live Demo](https://chatfull-okr9.onrender.com/) | [Repository](https://github.com/LAZERLES/chatfull)
 
 ---
 
