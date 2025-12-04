@@ -58,14 +58,14 @@ I'm <strong>Poomrapee</strong> (call me Noo) - a Full-Stack Developer passionate
 
 <div align="left">
 
-### 💬 [Real-Time Chat Application](https://github.com/LAZERLES/chatfull)
+### 💬 [Real-Time Chat Application](https://github.com/LAZERLES/RT-Chat-learnpj)
 A full-stack messaging platform with real-time communication built from scratch
 
 **Tech Stack:** React • Node.js • Socket.io • MongoDB • JWT  
 **Features:** Real-time messaging, authentication, image uploads (Cloudinary), welcome emails (Resend), rate limiting (Arcjet)  
 **What I learned:** WebSocket communication, JWT auth, third-party integrations, deployment
 
-🔗 [Live Demo](https://chatfull-okr9.onrender.com/) | [Repository](https://github.com/LAZERLES/chatfull)
+🔗 [Live Demo](https://chatfull-okr9.onrender.com/) | [Repository](https://github.com/LAZERLES/RT-Chat-learnpj)
 
 ---
 
